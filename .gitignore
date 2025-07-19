@@ -1,0 +1,82 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C++ build artifacts
+*.obj
+*.o
+*.so
+*.dll
+*.dylib
+*.pyd
+*.exp
+*.lib
+*.manifest
+*.ilk
+*.pch
+*.pdb
+*.idb
+*.exe
+
+# CMake and Visual Studio files
+CMakeFiles/
+CMakeCache.txt
+*.vcxproj*
+*.sln
+*.suo
+*.ncb
+*.opensdf
+*.sdf
+*.tlog
+*.log
+*.user
+*.ipch
+*.db
+*.opendb
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Python packaging
+.eggs/
+*.egg
+MANIFEST
+pip-wheel-metadata/
+*.spec
+
+# VSCode settings (optional)
+.vscode/
+
+# PyCharm settings (optional)
+.idea/
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+
+# Test cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
